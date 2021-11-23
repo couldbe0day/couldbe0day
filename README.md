@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @couldbe0day
-- 👀 I’m interested in Cyber Security Research, API Development, Logic Pro X, B
+- 👀 I’m interested in Cyber Security Research, API Development, Logic Pro X
 - 🌱 I’m currently learning Burp Suite, Charles, PostMan, PHP, Javascript, HTML, CSS, Python, C++, Node.js, CodeIgniter
 - 💞️ I’m looking to collaborate on anything! :)
 - 📫 How to reach me @couldbejake on Github.
